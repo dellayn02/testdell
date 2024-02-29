@@ -1,0 +1,4 @@
+AuthName "ubuntudev.mncplaymedia.com statistics"
+AuthType Basic
+AuthUserFile /home/ubuntudev/.awstats-htpasswd
+require valid-user
